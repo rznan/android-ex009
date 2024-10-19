@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ex009</string>
+    <string name="main_title">Conversor binário</string>
+    <string name="bits_input">Valor em bits</string>
+    <string name="button_text">Converter</string>
+    <string name="label_conversion_selction">Unidade para converter</string>
+    <string name="author_data">Renan Santos Carvalho\n1110482313034</string>
+</resources>
