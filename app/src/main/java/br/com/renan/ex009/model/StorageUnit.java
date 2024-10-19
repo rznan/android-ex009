@@ -1,5 +1,9 @@
 package br.com.renan.ex009.model;
 
+
+/*
+* @author: renan santos carvalho
+*/
 public enum StorageUnit {
     BIT(1, null,  "bit"),
     BYTE(8, StorageUnit.BIT, "byte"),
